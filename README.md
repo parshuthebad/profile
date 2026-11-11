@@ -1,6 +1,5 @@
 # Parashuram Vaddekunta — Redesigned Developer & LinkedIn Portfolio (v2.0)
 
-
 **Live LinkedIn Profile:** [https://www.linkedin.com/in/parashuramvaddekunta](https://www.linkedin.com/in/parashuramvaddekunta)
 
 ## What's Upgraded in v2.0
